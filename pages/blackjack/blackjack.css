@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background: white;
+    margin: 0;
+    padding: 0;
+}
